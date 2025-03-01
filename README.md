@@ -3,21 +3,14 @@ Potato
 
 [![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
 
-If you fork this you can say that you forked a potato.
+This fork was created to obtain a potato. 
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
-Forking potatoes is an ancient and well-mannered tradition.
+I once heard a story that some Russian ruler, a tzar or something, wanted to get his people to plant potatoes as a crop. But he knew if he ordered them to do so they would not. So he got a wagonload of potatoes and put guards on them, and in a short time, all the potatoes had been stolen. And that's how Russia got potatoes and the world got vodka. 
 
-The potato first appeared in Peru about ten thousand years ago. The potato was an early food source, and likely a highly traded good in early South America. Having been traded for several thousand years, and enduring much artificial selection, the explorers of the sixteenth and seventeenth century brought the potato back to Europe, where the crop grew. Originally thought to be poisonous and evil, the crop didn't become a major food for another hundred years.
+I don't actually know if it's true. 
 
-Following its introduction into China toward the end of the Ming dynasty in the seventeenth century, the potato immediately became a delicacy of the imperial family.
-
-By the time potatoes were introduced into Europe, the fork was already prevalent. Hence, started the tradition of forking the potato.
-
-A lack of equal rights for potatoes led to a disease spreading between them and endangered the tradition of forking the potato in Ireland. Fortunately, other areas of the world maintained their healthy, diverse potatoes, and so the tradition lives on.
-
-You too can continue this tradition of forking potatoes in the modern age by clicking the button above labeled "fork."
 
 Pull Requests
 -------------
